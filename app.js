@@ -1,5 +1,4 @@
 
-/*
 
 // Ejercicio #1 Crear una funcion "pizzaOven" que devuelva un objeto pizza
 function pizzaOven(masa, proteina, queso, ingredientes) {
@@ -36,7 +35,7 @@ console.log(" Ejercicio #4");
 var pizza4 = pizzaOven("lanzada a mano", "marinara", "feta", ["piña", "extra queso", "espinaca!!",  "champiñones", "aceitunas", "cebollas"]);
 console.log(pizza4);
 
-*/
+
 
 // Ejercicio #5 Crea una function llamada randomPizza que use Math.random () para crear una pizza aleatoria.
 console.log(" Ejercicio #5");
